@@ -804,9 +804,9 @@ TextStyle bodyMedium = GoogleFonts.inter(
 
 ## 📞 Support & Contact
 
-**Developer:** Mada Jabbar  
+**Developer:** Salsa  
 **Project:** AC-Box Flutter App  
-**Repository:** madajabbar/flutter-ac-box  
+**Repository:** Salsadila2002/acbox  
 **Version:** 1.0.0
 
 ---
